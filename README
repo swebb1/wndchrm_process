@@ -1,0 +1,3 @@
+
+#usage
+python wndchrm.py -t <training data> [-a <analytical data> -o <output folder> -n <output name>] 
